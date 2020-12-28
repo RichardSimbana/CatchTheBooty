@@ -1,5 +1,5 @@
 # Catch The Booty
-Catch The Booty - Pirate Mobile Game - Source Code
+Catch The Booty - Source Code
 
 <b> Info </b>
 <ul>
