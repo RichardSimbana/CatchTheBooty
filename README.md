@@ -1,4 +1,4 @@
-# CatchTheBooty
+# CatchTheBooty Pirate Mobile Game
 Catch The Booty Source Code
 
 <b> Info </b>
